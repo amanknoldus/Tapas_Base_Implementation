@@ -134,3 +134,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Footer
+/src/tuned_model/tapas_base_tuned_model.pkl

@@ -1,0 +1,10 @@
+questions,answer_coordinates,answer_text,table_file,id
+What is the highest clicks count?,"[(0, 3)]",['1998'],first.csv,1
+Which platform I should invest for more clicks and views?,"[(6, 0)]",['youtube'],first.csv,1
+Which platform has more clicks and views from India?,"[(9, 0)]",['snapchat'],first.csv,1
+Please tell me which platform to choose for more clicks and views in the age_group of 2?,"[(3, 0)]",['linkedin'],second.csv,2
+Which platform has the highest clicks?,"[(12, 0)]",['twitch'],second.csv,2
+Which platform has highest views in 0 age_group and in Austria location?,"[(17, 0)]",['amazon'],second.csv,2
+Could you list the dates with increased view counts?,"[(12, 1)]",['2023-03-07'],third.csv,3
+Which platform has highest views in 0 age_group and in Austria location?,"[(23, 0)]",['amazon'],third.csv,3
+Which platform has more clicks and views from India?,"[(27, 0)]",['snapchat'],third.csv,3
